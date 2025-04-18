@@ -2,7 +2,7 @@
 - 为爱发电，制作缺失的小马宝莉中文翻译
 # 翻译的内容与范围
 - 翻译My Little Pony:Friendship is Magic（小马宝莉:友谊是魔法）第四季，Equestria Girls（小马国女孩）电影、番外、MV。
-- 翻译的剧集，电影等来自https://yayponies.no/videos/eqg/eqg.php  如有需请移步自行下载。
+- 翻译的剧集、电影等来自https://yayponies.no/videos/eqg/eqg.php  如有需请移步自行下载。
 # 马迷福利
 - 作为一个马迷，我很喜欢MLP，包括正剧、歌曲、同人等，在这里免费分享一些EQG的歌曲，歌曲均为母带，佩戴耳机有更好的听音效果噢。
 - 免责声明:歌曲仅供研究，版权归属于孩之宝，禁止用于商业行为或对其侵权，如因商业行为或侵权等造成的后果，与分享者无关。
