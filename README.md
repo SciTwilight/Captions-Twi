@@ -2,7 +2,7 @@
 - 为爱发电，制作缺失的小马宝莉中文翻译
 # 翻译的内容与范围
 - 翻译My Little Pony:Friendship is Magic（小马宝莉:友谊是魔法）第四季，Equestria Girls（小马国女孩）电影、番外、MV。
-- S1-S3、S5-S9请移步至潮汐字幕组https://github.com/winddramon/Tidal-Fansub。
+- S1-S3、S5-S9请移步至潮汐字幕组https://github.com/winddramon/Tidal-Fansub.git
 - 翻译的剧集、电影等来自https://yayponies.no/videos/eqg/eqg.php  如有需请移步自行下载。
 # 马迷福利
 - 作为一个马迷，我很喜欢MLP，包括正剧、歌曲、同人等，在这里免费分享一些EQG的歌曲，歌曲均为母带，佩戴耳机有更好的听音效果噢。
