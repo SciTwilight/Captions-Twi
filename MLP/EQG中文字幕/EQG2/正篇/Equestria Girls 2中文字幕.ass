@@ -15,10 +15,10 @@ Audio File: D:/My Little Pony/正片/My Little Pony：Equestria Girls 2 Rainbow 
 Video File: D:/My Little Pony/正片/My Little Pony：Equestria Girls 2 Rainbow Rocks/Equestria Girls 2：Rainbow Rocks/Equestria Girls 2：Rainbow Rocks.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 1164
-Active Line: 1162
-Video Position: 102383
+Video Zoom Percent: 0.500000
+Scroll Position: 1178
+Active Line: 1185
+Video Position: 105491
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -297,9 +297,9 @@ Dialogue: 0,0:15:13.32,0:15:14.86,所有,,0,0,0,,{\K72}Battle {\K62}of the {\K18
 Dialogue: 0,0:15:15.11,0:15:16.65,所有,,0,0,0,,我会打败你的
 Dialogue: 0,0:15:16.90,0:15:17.60,所有,,0,0,0,,{\K69}Battle \N去战斗吧
 Dialogue: 0,0:15:17.60,0:15:19.10,所有,,0,0,0,,你休想
-Dialogue: 0,0:15:19.24,0:15:19.96,所有,,0,0,0,,{\K68}Battle\N去战斗吧 
+Dialogue: 0,0:15:19.24,0:15:19.96,所有,,0,0,0,,{\K68}Battle\N去战斗吧
 Dialogue: 0,0:15:19.96,0:15:21.66,所有,,0,0,0,,我就要赢
-Dialogue: 0,0:15:21.66,0:15:22.40,所有,,0,0,0,,{\K73}Battle\N去战斗吧 
+Dialogue: 0,0:15:21.66,0:15:22.40,所有,,0,0,0,,{\K73}Battle\N去战斗吧
 Dialogue: 0,0:15:22.40,0:15:23.91,所有,,0,0,0,,我才是第一
 Dialogue: 0,0:15:23.91,0:15:26.37,所有,,0,0,0,,{\K150}Me and you {\K94}You and me\N你和我 我和你
 Dialogue: 0,0:15:26.62,0:15:29.17,所有,,0,0,0,,{\K82}Why don't {\K65}we see {\K68}who is {\K37}better\N为什么我们不一决高下看谁更好呢
@@ -1224,5 +1224,6 @@ Dialogue: 0,1:12:24.20,1:12:28.37,所有,,0,0,0,,We shine like rainbows\N我们�
 Dialogue: 0,1:12:28.62,1:12:32.63,所有,,0,0,0,,Shine like rainbows\N像彩虹般闪耀
 Dialogue: 0,1:12:32.88,1:12:37.13,所有,,0,0,0,,We shine like rainbows\N我们像彩虹般闪耀
 Dialogue: 0,1:12:37.38,1:12:41.60,所有,,0,0,0,,Shine like rainbows\N像彩虹般闪耀
-Dialogue: 0,1:13:05.20,1:13:07.37,Default,,0,0,0,,毫无疑问 穗龙
-Dialogue: 0,1:13:07.62,1:13:10.88,Default,,0,0,0,,看来坎特洛特高中又发生新鲜事了
+Dialogue: 0,1:13:05.20,1:13:07.37,Twilight Sparkle,,0,0,0,,毫无疑问 穗龙
+Dialogue: 0,1:13:07.62,1:13:10.88,Twilight Sparkle,,0,0,0,,看来坎特洛特高中又发生新鲜事了
+Dialogue: 0,1:13:18.89,1:13:19.89,Default,,0,0,0,,[Script Info]\N; Title: 《Equestria Girls 2》中文字幕\N; Author: SciTwilight(F)\N; License: CC BY-NC-SA 4.0 International\N; License URL: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh\N; 使用要求：署名、禁止商用、衍生作品需同协议共享
