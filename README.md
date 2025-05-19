@@ -1,4 +1,4 @@
-# Captions-Twi
+# Captions-Twilight Studio
 - 为爱发电，制作缺失的小马宝莉中文翻译
 # 翻译的内容与范围
 - 翻译My Little Pony:Friendship is Magic（小马宝莉:友谊是魔法）第四季、大电影，Equestria Girls（小马国女孩）电影、番外、MV，My Little Pony:A New Generation（小马宝莉:新时代）。（排在G4和EQG后翻译，如果需要Make Your Mark剧集翻译制作请在B站或者邮箱留言）
