@@ -22,9 +22,9 @@ Video File: D:/My Little Pony/正片/My Little Pony：Equestria Girls 2 Rainbow 
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 6
-Active Line: 9
-Video Position: 2408
+Scroll Position: 1172
+Active Line: 1182
+Video Position: 104573
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1199,36 +1199,36 @@ Dialogue: 0,1:10:14.82,1:10:17.74,Sunset Shimmer 1080p,,0,0,0,,如果可以的�
 Dialogue: 0,1:10:17.99,1:10:20.62,Sunset Shimmer 1080p,,0,0,0,,你的朋友 余晖烁烁
 Dialogue: 0,1:10:20.87,1:10:22.60,Rainbow Dash 1080p,,0,0,0,,准备好了吗
 Dialogue: 0,1:10:22.60,1:10:24.08,Sunset Shimmer 1080p,,0,0,0,,准备好了
-Dialogue: 0,1:10:25.34,1:10:27.44,Pinkie Pie 1080p,,0,0,0,,1 2 3 4
-Dialogue: 0,1:10:36.35,1:10:39.18,Apple Jack 1080p,,0,0,0,,{\K150\pos(1360,903.6)}Once {\K131}upon a time\N很久很久以前
-Dialogue: 0,1:10:39.43,1:10:43.52,Apple Jack 1080p,,0,0,0,,{\K145\pos(1342.4,914.8)}You came in to {\K100}my world and {\K40}made the {\K121}stars align\N你出现在我的世界里 让群星集结
-Dialogue: 0,1:10:45.06,1:10:48.15,Rarity 1080p,,0,0,0,,{\K120\pos(537.6,918)}Now {\K65}I can see {\K121}the signs\N如今我已明白这个讯号
-Dialogue: 0,1:10:48.40,1:10:52.24,Rarity 1080p,,0,0,0,,{\K120\pos(568,919.6)}You pick me up {\K75}when I get {\K61}down so {\K125}I can shine\N你总会在我低谷的时候带我走出阴霾 让我释放光芒
-Dialogue: 0,1:10:52.49,1:10:56.45,所有 1080p,,0,0,0,,{\K105\pos(572.8,834.8)}Shine like {\K288}rainbows\N让我像彩虹般闪耀
-Dialogue: 0,1:10:56.70,1:11:01.87,所有 1080p,,0,0,0,,{\K115\pos(587.2,801.2)}Shine like {\K400}rainbows\N让我像彩虹般闪耀
-Dialogue: 0,1:11:02.12,1:11:05.54,Rainbow Dash 1080p,,0,0,0,,{\K110\pos(953.6,686)}Friends {\K80}you are {\K150}in my life\N朋友 你是我生命的一部分
-Dialogue: 0,1:11:05.79,1:11:10.24,Rainbow Dash 1080p,,0,0,0,,{\K90\pos(963.2,686)}And you can {\K59}count on {\K90}me to be {\K50}there by {\K155}your side\N你可以依靠我 我始终会和你并肩作战
-Dialogue: 0,1:11:10.88,1:11:14.34,Sunset Shimmer 1080p,,0,0,0,,{\K90\pos(931.2,370.8)}And {\K50}when the {\K40}music {\K50}comes {\K114}alive\N当音乐响起
-Dialogue: 0,1:11:14.59,1:11:18.72,Sunset Shimmer 1080p,,0,0,0,,{\K90\pos(956.8,382)}You sing us {\K95}songs to lift {\K71}us up so {\K55}we can {\K100}shine\N你唱着我们的歌让我们振奋 让我们光芒万丈
-Dialogue: 0,1:11:18.97,1:11:22.48,所有 1080p,,0,0,0,,{\K128\pos(484.8,969.2)}And the sound {\K115}that we hear {\K105}in our hearts\N你我心中涤荡声音
-Dialogue: 0,1:11:22.73,1:11:27.27,所有 1080p,,0,0,0,,{\K60\pos(561.6,990)}Makes a {\K392}crescendo\N越来越强
-Dialogue: 0,1:11:27.52,1:11:31.07,所有 1080p,,0,0,0,,{\K80\pos(1484.8,953.2)}And the {\K77}light {\K95}that ignites {\K100}in the dark\N那点亮黑暗的光
-Dialogue: 0,1:11:31.32,1:11:35.57,所有 1080p,,0,0,0,,{\K105\pos(1392,871.6)}It makes {\K20}us all {\K298}glow\N让我们都发出光芒
-Dialogue: 0,1:11:35.82,1:11:39.91,所有 1080p,,0,0,0,,{\K50\pos(1353.6,927.6)}And {\K85}shine like {\K271}rainbows\N像彩虹般闪耀
-Dialogue: 0,1:11:40.16,1:11:45.42,所有 1080p,,0,0,0,,{\K40\pos(1316.8,972.4)}We {\K100}shine like {\K50}rain{\K333}bows\N我们像彩虹般闪耀
+Dialogue: 0,1:10:25.59,1:10:27.50,Pinkie Pie 1080p,,0,0,0,,1 2 3 4
+Dialogue: 0,1:10:36.35,1:10:39.00,Apple Jack 1080p,,0,0,0,,{\K80\pos(1360,903.6)}Once{\K65} {\K55}upon a {\K64}time\N很久很久以前
+Dialogue: 0,1:10:39.86,1:10:43.42,Apple Jack 1080p,,0,0,0,,{\K15\pos(1342.4,914.8)}You {\K85}came in to {\K55}my world {\K50}and made {\K55}the stars {\K95}align\N你出现在我的世界里 让群星集结
+Dialogue: 0,1:10:45.06,1:10:48.15,Rarity 1080p,,0,0,0,,{\K110\pos(537.6,918)}Now {\K35}I can {\K45}see the {\K116}signs\N如今我已明白这个讯号
+Dialogue: 0,1:10:48.60,1:10:52.27,Rarity 1080p,,0,0,0,,{\K15\pos(568,919.6)}You {\K90}pick me up {\K80}when I get {\K30}down {\K60}so I can {\K90}shine\N你总会在我低谷的时候带我走出阴霾 让我释放光芒
+Dialogue: 0,1:10:52.71,1:10:56.68,所有 1080p,,0,0,0,,{\K85\pos(572.8,834.8)}Shine like {\K50}rain{\K261}bows\N像彩虹般闪耀
+Dialogue: 0,1:10:56.93,1:11:01.61,所有 1080p,,0,0,0,,{\K98\pos(587.2,801.2)}Shine like {\K55}rain{\K314}bows\N像彩虹般闪耀
+Dialogue: 0,1:11:02.52,1:11:05.64,Rainbow Dash 1080p,,0,0,0,,{\K85\pos(953.6,686)}Friends{\K17} {\K20}you {\K75}are in my {\K115}life\N朋友 你是我生命的一部分
+Dialogue: 0,1:11:06.00,1:11:10.02,Rainbow Dash 1080p,,0,0,0,,{\K25\pos(963.2,686)}And {\K15}you {\K100}can count on {\K50}me to {\K50}be there {\K35}by {\K15}your {\K112}side\N你可以依靠我 我始终会和你并肩作战
+Dialogue: 0,1:11:11.24,1:11:14.39,Sunset Shimmer 1080p,,0,0,0,,{\K55\pos(931.2,370.8)}And {\K50}when the {\K40}music {\K50}comes {\K117}alive\N当音乐响起
+Dialogue: 0,1:11:14.78,1:11:18.72,Sunset Shimmer 1080p,,0,0,0,,{\K8\pos(956.8,382)}You {\K30}sing us {\K95}songs to {\K70}lift us up {\K80}so we can {\K109}shine\N你唱着我们的歌让我们振奋 让我们光芒万丈
+Dialogue: 0,1:11:19.13,1:11:22.67,所有 1080p,,0,0,0,,{\K35\pos(484.8,969.2)}And {\K20}the {\K45}sound{\K10} {\K55}that we {\K56}hear {\K55}in our {\K77}hearts\N你我心中涤荡声音
+Dialogue: 0,1:11:22.98,1:11:27.34,所有 1080p,,0,0,0,,{\K60\pos(561.6,990)}Makes a {\K105}crescen{\K270}do\N越来越强
+Dialogue: 0,1:11:27.88,1:11:31.16,所有 1080p,,0,0,0,,{\K25\pos(1484.8,953.2)}And {\K20}the {\K60}light {\K35}that {\K80}ignites {\K55}in the {\K50}dark\N那点亮黑暗的光
+Dialogue: 0,1:11:31.67,1:11:35.80,所有 1080p,,0,0,0,,{\K75\pos(1392,871.6)}It makes {\K80}us all {\K258}glow\N让我们都发出光芒
+Dialogue: 0,1:11:36.04,1:11:40.25,所有 1080p,,0,0,0,,{\K20\pos(1353.6,927.6)}And {\K90}shine like {\K55}rain{\K253}bows\N像彩虹般闪耀
+Dialogue: 0,1:11:40.44,1:11:45.58,所有 1080p,,0,0,0,,{\K15\pos(1316.8,972.4)}We {\K95}shine like {\K55}rain{\K347}bows\N我们像彩虹般闪耀
 Dialogue: 0,1:11:46.88,1:11:49.29,所有 1080p,,0,0,0,,{\K85\pos(945.6,1076.4)}Together {\K12}we {\K142}stand\N我们并肩作战
-Dialogue: 0,1:11:49.54,1:11:55.30,所有 1080p,,0,0,0,,{\K120}As the rain {\K158}begins to {\K295}fall\N当雨水落下
-Dialogue: 0,1:11:55.55,1:11:58.26,所有 1080p,,0,0,0,,{\K85}And holdin' {\K150}our heads up {\K34}high\N我们昂首挺胸
-Dialogue: 0,1:11:58.51,1:12:02.39,所有 1080p,,0,0,0,,{\K31}As the {\K100}sun shines {\K112}through it {\K143}all\N当阳光照耀大地
-Dialogue: 0,1:12:02.64,1:12:06.48,所有 1080p,,0,0,0,,{\K120\pos(411.2,990)}And the sound {\K120}that we hear {\K60}in our {\K81}hearts\N你我心中涤荡声音
-Dialogue: 0,1:12:06.73,1:12:11.27,所有 1080p,,0,0,0,,{\K70\pos(590.4,903.6)}Makes a {\K60}cresc{\K322}endo\N越来越强
+Dialogue: 0,1:11:49.67,1:11:55.35,所有 1080p,,0,0,0,,{\K120}As the rain {\K158}begins to {\K295}fall\N当雨水落下
+Dialogue: 0,1:11:55.68,1:11:58.37,所有 1080p,,0,0,0,,{\K85}And holdin' {\K150}our heads up {\K34}high\N我们昂首挺胸
+Dialogue: 0,1:11:58.44,1:12:02.76,所有 1080p,,0,0,0,,{\K40}As the {\K125}sun shines {\K100}through it {\K165}all\N当阳光照耀大地
+Dialogue: 0,1:12:02.80,1:12:06.48,所有 1080p,,0,0,0,,{\K50\pos(411.2,990)}And the {\K50}sound {\K40}that {\K20}we {\K60}hear {\K60}in our {\K85}hearts\N你我心中涤荡声音
+Dialogue: 0,1:12:06.62,1:12:11.27,所有 1080p,,0,0,0,,{\K70\pos(590.4,903.6)}Makes a {\K95}crescen{\K298}do\N越来越强
 Dialogue: 0,1:12:11.52,1:12:14.85,所有 1080p,,0,0,0,,{\K50\pos(1355.2,962.8)}And the {\K70}light {\K15}that {\K80}ignites {\K50}in the {\K67}dark\N那点亮黑暗的光
-Dialogue: 0,1:12:14.86,1:12:19.58,所有 1080p,,0,0,0,,{\K130\pos(1260.8,943.6)}It makes {\K80}us all {\K259}glow\N让我们都发出光芒
+Dialogue: 0,1:12:15.29,1:12:19.58,所有 1080p,,0,0,0,,{\K25\pos(1260.8,943.6)}It {\K45}makes {\K95}us all {\K261}glow\N让我们都发出光芒
 Dialogue: 0,1:12:19.60,1:12:23.95,所有 1080p,,0,0,0,,{\K35\pos(1355.2,945.2)}And {\K85}shine like {\K48}rain{\K265}bows\N像彩虹般闪耀
-Dialogue: 0,1:12:24.00,1:12:28.37,所有 1080p,,0,0,0,,{\K20\pos(744,924.4)}We {\K100}shine like {\K55}rain{\K260}bows\N我们像彩虹般闪耀
-Dialogue: 0,1:12:28.62,1:12:32.63,所有 1080p,,0,0,0,,{\K90\pos(416,937.2)}Shine like {\K60}rain{\K248}bows\N像彩虹般闪耀
-Dialogue: 0,1:12:32.65,1:12:37.13,所有 1080p,,0,0,0,,{\K25\pos(977.6,1054)}We {\K110}shine like {\K42}rain{\K269}bows\N我们像彩虹般闪耀
-Dialogue: 0,1:12:37.38,1:12:41.60,所有 1080p,,0,0,0,,{\K85}Shine like {\K50}rain{\K284}bows\N像彩虹般闪耀
+Dialogue: 0,1:12:24.08,1:12:28.37,所有 1080p,,0,0,0,,{\K20\pos(744,924.4)}We {\K100}shine like {\K40}rain{\K267}bows\N我们像彩虹般闪耀
+Dialogue: 0,1:12:28.56,1:12:32.63,所有 1080p,,0,0,0,,{\K90\pos(416,937.2)}Shine like {\K60}rain{\K248}bows\N像彩虹般闪耀
+Dialogue: 0,1:12:32.80,1:12:37.13,所有 1080p,,0,0,0,,{\K10\pos(977.6,1054)}We {\K100}shine like {\K55}rain{\K269}bows\N我们像彩虹般闪耀
+Dialogue: 0,1:12:37.27,1:12:41.60,所有 1080p,,0,0,0,,{\K100}Shine like {\K50}rain{\K280}bows\N像彩虹般闪耀
 Dialogue: 0,1:13:05.20,1:13:07.37,Twilight Sparkle 1080p,,0,0,0,,毫无疑问 穗龙
 Dialogue: 0,1:13:07.62,1:13:10.88,Twilight Sparkle 1080p,,0,0,0,,看来坎特洛特高中又发生新鲜事了
 Dialogue: 0,1:13:18.60,1:13:19.58,Twilight Sparkle 1080p,,0,0,0,,[Script Info]\N; Title: 《Equestria Girls 2》中文字幕\N; Author: SciTwilight(F)\N; License: CC BY-NC-SA 4.0 International\N; License URL: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh\N; 使用要求：署名、禁止商用、衍生作品需同协议共享
