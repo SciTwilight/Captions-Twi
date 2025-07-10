@@ -22,8 +22,8 @@ Video File: ../../A素材/成品/Hope Shines Eternal.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Active Line: 43
-Video Position: 3553
+Active Line: 2
+Video Position: 551
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -48,7 +48,7 @@ Style: 所有 4K,Arial,96,&H00EEFF00,&H00D25DFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,10
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:15.58,0:00:17.37,Apple Jack 4K,,0,0,0,,{\K115}Somewhere's a {\K63}book\N有这么一本书
 Dialogue: 0,0:00:17.44,0:00:19.07,Apple Jack 4K,,0,0,0,,{\K25}With {\K70}chapters {\K25}still {\K43}blank\N书中的章节
-Dialogue: 0,0:00:19.11,0:00:23.00,所有 4K,,0,0,0,,{\K388}Inside\N还是空白
+Dialogue: 0,0:00:19.11,0:00:23.00,所有 4K,,0,0,0,,{\K25}In {\K363}side\N还是空白
 Dialogue: 0,0:00:23.20,0:00:24.93,Rarity 4K,,0,0,0,,{\K20}It's the {\K70}book {\K35}of our {\K45}lives\N它就是我们的生活
 Dialogue: 0,0:00:25.10,0:00:26.74,Rarity 4K,,0,0,0,,{\K25}And the {\K95}story is {\K44}ours\N其中的故事
 Dialogue: 0,0:00:26.74,0:00:30.16,所有 4K,,0,0,0,,{\K45}To {\K297}write\N还在等待我们书写
