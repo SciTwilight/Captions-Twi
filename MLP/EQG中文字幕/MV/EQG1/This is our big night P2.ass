@@ -16,13 +16,13 @@ PlayResX: 3840
 PlayResY: 2160
 
 [Aegisub Project Garbage]
-Audio File: ../../../../A素材/4K源文件/This Is Our Big Night P2.mp4
-Video File: ../../../../A素材/4K源文件/This Is Our Big Night P2.mp4
+Audio File: D:/素材存档/视频/源/EQG/EQG/This is our big night P2.mp4
+Video File: D:/素材存档/视频/源/EQG/EQG/This is our big night P2.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Active Line: 10
-Video Position: 1180
+Video Zoom Percent: 0.250000
+Active Line: 3
+Video Position: 476
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -50,11 +50,11 @@ Style: Princess Cadance 4K,华文行楷,96,&H00F9C9FF,&H00CCFAF4,&H00C648FB,&H00
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:02.86,所有 4K,,0,0,0,,{\K70}This is our {\K50}big {\K164}night\N这属于我们的狂欢夜
-Dialogue: 0,0:00:03.25,0:00:07.22,所有 4K,,0,0,0,,{\K22}We {\K37}made it {\K50}happen {\K30}now {\K20}let's {\K70}party {\K68}all {\K100}night\N梦想已实现眼前 现在一起彻夜狂欢吧
-Dialogue: 0,0:00:08.76,0:00:12.60,所有 4K,,0,0,0,,{\K25}We're {\K42}here {\K50}now {\K24}and {\K24}we {\K14}worked {\K25}so {\K25}hard {\K23}to {\K44}make it {\K45}come {\K43}around\N我们努力走到这一刻 所有付出都为今晚
-Dialogue: 0,0:00:12.63,0:00:15.95,所有 4K,,0,0,0,,{\K26}To {\K58}tonight {\K35}so {\K23}let's {\K48}try to {\K45}make it {\K25}last {\K71}forever\N试着让这份快乐成为永恒
-Dialogue: 0,0:00:16.16,0:00:19.88,所有 4K,,0,0,0,,{\K7}The {\K55}school {\K40}lights {\K55}so {\K45}bright {\K50}beat is {\K44}pumping {\K27}through {\K22}the {\K25}night\N校园璀璨的灯火 节奏彻夜跃动
-Dialogue: 0,0:00:20.06,0:00:23.26,所有 4K,,0,0,0,,{\K40}Party's {\K52}starting {\K45}DJ's {\K26}got {\K22}the {\K40}music {\K46}just {\K47}right\N派对开始 DJ正点燃气氛
+Dialogue: 0,0:00:03.25,0:00:07.22,所有 4K,,0,0,0,,{\K22}We {\K37}made it {\K50}happen {\K30}now {\K20}let's {\K70}party {\K68}all {\K100}night\N梦想已经实现 现在一起彻夜狂欢吧
+Dialogue: 0,0:00:08.76,0:00:12.60,所有 4K,,0,0,0,,{\K25}We're {\K42}here {\K50}now {\K24}and {\K24}we {\K14}worked {\K25}so {\K25}hard {\K23}to {\K44}make it {\K45}come {\K43}around\N我们努力走到这一刻 都是为了今晚
+Dialogue: 0,0:00:12.63,0:00:15.95,所有 4K,,0,0,0,,{\K26}To {\K58}tonight {\K35}so {\K23}let's {\K48}try to {\K45}make it {\K25}last {\K71}forever\N试着让这份快乐成为永恒吧
+Dialogue: 0,0:00:16.16,0:00:19.88,所有 4K,,0,0,0,,{\K7}The {\K55}school {\K40}lights {\K55}so {\K45}bright {\K50}beat is {\K44}pumping {\K27}through {\K22}the {\K25}night\N校园璀璨的灯火 我们跟着节奏彻夜跃动
+Dialogue: 0,0:00:20.06,0:00:23.26,所有 4K,,0,0,0,,{\K40}Party's {\K52}starting {\K45}DJ's {\K26}got {\K22}the {\K40}music {\K46}just {\K47}right\N派对开始了 DJ正点起了气氛
 Dialogue: 0,0:00:23.57,0:00:30.25,所有 4K,,0,0,0,,{\K67}Six {\K45}friends {\K25}on {\K21}the {\K92}way {\K90}up {\K327}now\N六位好友共同登场
 Dialogue: 0,0:00:31.04,0:00:36.58,所有 4K,,0,0,0,,{\K60}Six {\K45}friends {\K24}here {\K10}to {\K106}show {\K88}you {\K221}how\N六位伙伴展现光芒
 Dialogue: 0,0:00:36.91,0:00:39.79,所有 4K,,0,0,0,,{\K72}This is our {\K41}big {\K175}night\N这属于我们的狂欢夜
