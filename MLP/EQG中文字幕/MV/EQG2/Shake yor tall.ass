@@ -16,14 +16,15 @@ PlayResX: 3840
 PlayResY: 2160
 
 [Aegisub Project Garbage]
-Last Style Storage: 4K
-Audio File: D:/素材存档/视频/发布/Shake your tail!.mp4
-Video File: D:/素材存档/视频/发布/Shake your tail!.mp4
+Last Style Storage: 总样式
+Audio File: ../../../../A素材/4K源文件/Shake your Tail!SDR.mp4
+Video File: ../../../../A素材/4K源文件/Shake your Tail!SDR.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 16
-Video Position: 703
+Video Zoom Percent: 0.375000
+Scroll Position: 36
+Active Line: 46
+Video Position: 7580
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -47,42 +48,54 @@ Style: Principal Cinch 4K,华文行楷,96,&H00FAFED9,&H00904B8A,&H00A25122,&H004
 Style: Wondercolts 4K,华文行楷,96,&H00FFDB1F,&H00A3FFFF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: Shadowbolts 4K,华文行楷,96,&H00FF59B8,&H0067FAFF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: Princess Cadance 4K,华文行楷,96,&H00F9C9FF,&H00CCFAF4,&H00C648FB,&H00FBB7CC,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: 所有 彩云,华文隶书,200,&H00E168E0,&H00B27683,&H00A85A68,&H00FFFFFF,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.56,0:00:08.38,所有 4K,,0,0,0,,摇动你的尾巴
-Dialogue: 0,0:00:08.38,0:00:12.48,所有 4K,,0,0,0,,{\K64}We've just got {\K152}the day {\K80}to get {\K114}ready\N我们只有一天的时间可以准备
-Dialogue: 0,0:00:12.48,0:00:15.36,所有 4K,,0,0,0,,{\K54}And there's {\K81}only so {\K45}much time {\K107}to lose\N可没多少能浪费的时间
-Dialogue: 0,0:00:15.36,0:00:19.22,所有 4K,,0,0,0,,{\K60}Because {\K90}tonight  {\K54}yeah  {\K54}we're here {\K125}to party\N因为今晚 我们要在这儿狂欢
-Dialogue: 0,0:00:19.22,0:00:21.95,所有 4K,,0,0,0,,{\K68}So let's {\K45}think of {\K40}something {\K119}fun to do\N让我们想想有些什么好玩的吧
-Dialogue: 0,0:00:23.55,0:00:26.84,所有 4K,,0,0,0,,{\K95}We don't know {\K81}we don't know {\K151}what's gonna happen\N我们不知道会发生什么
-Dialogue: 0,0:00:26.84,0:00:30.40,所有 4K,,0,0,0,,{\K80}We just know {\K82}we just know {\K191}it's gonna feel right\N我们只知道这会感觉很好
-Dialogue: 0,0:00:30.53,0:00:32.14,所有 4K,,0,0,0,,{\K56}All our {\K51}friends {\K52}are here\N我们所有的朋友都在这儿
-Dialogue: 0,0:00:32.40,0:00:36.80,所有 4K,,0,0,0,,{\K25}And {\K45}it's time to {\K190}ignite {\K15}the {\K164}lights\N是时候点燃所有的灯啦
-Dialogue: 0,0:00:36.90,0:00:40.42,所有 4K,,0,0,0,,{\K120}Shake your tail {\K61}'cause we're {\K69}here to {\K58}have a party {\K44}tonight\N摇摇你的尾巴吧 因为我们今晚将在这里彻夜狂欢
-Dialogue: 0,0:00:40.42,0:00:43.70,所有 4K,,0,0,0,,{\K125}Shake your tail  {\K120}shake your {\K80}tail\N欢快地摇摇你的尾巴吧
-Dialogue: 0,0:00:43.70,0:00:47.34,所有 4K,,0,0,0,,{\K150}Shake your tail {\K53}'cause we're {\K54}here to {\K70}have a party {\K37}tonight\N摇摇你的尾巴吧 因为我们今晚将在这里彻夜狂欢
-Dialogue: 0,0:00:47.34,0:00:50.70,所有 4K,,0,0,0,,{\K80}Shake your {\K80}tail  {\K82}shake your {\K92}tail\N欢快地摇摇你的尾巴吧
-Dialogue: 0,0:00:50.70,0:00:54.14,Twilight Sparkle 4K,,0,0,0,,{\K80}So {\K90}what you didn't {\K103}get it right the {\K71}first time\N所以当你第一次没有做好时
-Dialogue: 0,0:00:54.14,0:00:57.64,Pinkie Pie 4K,,0,0,0,,{\K180}Laugh it off  {\K87}no one said {\K79}it is a crime\N那就一笑而过吧 没人说那是一种罪行
-Dialogue: 0,0:00:57.64,0:01:00.98,Rarity 4K,,0,0,0,,{\K140}Do your thing {\K85}you know you're {\K109}an original\N做你自己的事儿 你会知道你就是原创者
-Dialogue: 0,0:01:00.98,0:01:04.32,Apple Jack 4K,,0,0,0,,{\K168}Your ideas are so {\K95}funny that {\K71}they're criminal\N你的想法实在太有趣了 竟然想到他们有罪
-Dialogue: 0,0:01:04.32,0:01:06.65,所有 4K,,0,0,0,,{\K190}Ohhh {\K20}ahh
-Dialogue: 0,0:01:06.65,0:01:08.40,所有 4K,,0,0,0,,{\K44}We've just {\K128}got the day\N我们只有一天的时间
-Dialogue: 0,0:01:08.40,0:01:10.44,所有 4K,,0,0,0,,{\K201}to get ready\N可以准备
-Dialogue: 0,0:01:10.94,0:01:13.61,所有 4K,,0,0,0,,{\K53}And there's {\K83}only so much {\K128}time to lose\N可没多少能浪费的时间
-Dialogue: 0,0:01:13.61,0:01:17.58,所有 4K,,0,0,0,,{\K76}Because {\K83}tonight  {\K80}yeah  we're {\K158}here to party\N因为今晚 我们要在这儿狂欢
-Dialogue: 0,0:01:17.58,0:01:20.28,所有 4K,,0,0,0,,{\K60}So let's {\K55}think of {\K37}something {\K115}fun to do\N让我们想想有些什么好玩的吧
-Dialogue: 0,0:01:21.95,0:01:25.00,所有 4K,,0,0,0,,{\K75}We don't know {\K78}we don't know {\K149}what's gonna happen\N我们不知道会发生什么
-Dialogue: 0,0:01:25.00,0:01:28.55,所有 4K,,0,0,0,,{\K120}We just know {\K75}we just know {\K160}it's gonna feel right\N我们只知道这会感觉很好
-Dialogue: 0,0:01:28.55,0:01:30.30,所有 4K,,0,0,0,,{\K75}All our {\K40}friends {\K60}are here\N我们所有的朋友都在这
-Dialogue: 0,0:01:30.30,0:01:34.97,所有 4K,,0,0,0,,{\K65}And it's {\K52}time to {\K178}ignite {\K21}the {\K147}lights\N是时候点燃所有的灯啦
-Dialogue: 0,0:01:34.97,0:01:38.64,所有 4K,,0,0,0,,{\K150}Shake your tail {\K50}'cause we're {\K42}here to {\K48}have a {\K40}party {\K33}tonight\N摇摇你的尾巴吧 因为我们今晚将在这里彻夜狂欢
-Dialogue: 0,0:01:38.64,0:01:42.06,所有 4K,,0,0,0,,{\K145}Shake your tail {\K83}shake your {\K110}tail\N欢快地摇摇你的尾巴
-Dialogue: 0,0:01:42.06,0:01:45.50,所有 4K,,0,0,0,,{\K125}Shake your tail {\K65}'cause we're {\K40}here to {\K35}have a {\K40}party {\K38}tonight\N摇摇你的尾巴吧 因为我们今晚将在这里彻夜狂欢
-Dialogue: 0,0:01:45.50,0:01:48.82,所有 4K,,0,0,0,,{\K83}Shake your {\K60}tail {\K95}shake your {\K94}tail\N欢快地摇摇你的尾巴吧
-Dialogue: 0,0:01:48.82,0:01:52.32,所有 4K,,0,0,0,,{\K85}Shake your {\K60}tail {\K50}'cause we're {\K50}here to {\K35}have a {\K40}party {\K26}tonight\N摇摇你的尾巴吧 因为我们今晚将在这里彻夜狂欢
-Dialogue: 0,0:01:52.32,0:01:55.70,所有 4K,,0,0,0,,{\K83}Shake your {\K80}tail {\K74}shake your {\K101}tail\N欢快地摇摇你的尾巴吧
-Dialogue: 0,0:01:55.70,0:01:59.25,所有 4K,,0,0,0,,{\K87}Shake your {\K65}tail {\K42}'cause we're {\K35}here to {\K48}have a {\K35}party {\K43}tonight\N摇摇你的尾巴吧 因为我们今晚将在这里彻夜狂欢
-Dialogue: 0,0:01:59.25,0:02:02.62,所有 4K,,0,0,0,,{\K94}Shake your {\K59}tail {\K85}shake your {\K96}tail\N欢快地摇摇你的尾巴吧
-Dialogue: 0,0:02:02.62,0:02:06.46,所有 4K,,0,0,0,,{\K85}Shake your {\K50}tail {\K51}'cause we're {\K48}here to {\K48}have a {\K32}party {\K66}tonight\N摇摇你的尾巴吧 因为我们今晚将在这里彻夜狂欢
+Dialogue: 0,0:00:04.57,0:00:08.01,所有 彩云,,0,0,0,,{\b0\frz11.88\pos(2582.4,1954.8)\i0\fade(255,0,255,0,210,3180,3430}摇动你的尾巴
+Dialogue: 0,0:00:08.45,0:00:09.87,所有 4K,,0,0,0,,{\K21}We've {\K23}just {\K23}got {\K21}the {\K53}day\N我们只有一天的时间
+Dialogue: 0,0:00:10.61,0:00:12.14,所有 4K,,0,0,0,,{\K25}To {\K42}get {\K85}ready\N可以准备
+Dialogue: 0,0:00:12.48,0:00:15.36,所有 4K,,0,0,0,,{\K29}And {\K25}there's {\K21}only {\K82}so much time {\K24}to {\K106}lose\N可没多少能浪费的时间
+Dialogue: 0,0:00:15.36,0:00:16.76,所有 4K,,0,0,0,,{\K62}Because {\K78}tonight \N因为今晚
+Dialogue: 0,0:00:17.07,0:00:19.33,所有 4K,,0,0,0,,{\K46}Yeah {\K58}we're here to {\K119.3}party\N我们要在这儿狂欢
+Dialogue: 0,0:00:19.33,0:00:21.70,所有 4K,,0,0,0,,{\K25}So {\K29}let's {\K30}think of {\K54}something {\K20}fun {\K22}to {\K56}do\N让我们想想有些什么好玩的吧
+Dialogue: 0,0:00:23.55,0:00:24.32,所有 4K,,0,0,0,,{\K18}We {\K34}don't {\K24}know\N我们不知道
+Dialogue: 0,0:00:24.32,0:00:25.37,所有 4K,,0,0,0,,{\pos(1920.8,230)\K26}We {\K42}don't {\K35}know\N不知道
+Dialogue: 0,0:00:25.18,0:00:26.65,所有 4K,,0,0,0,,{\K25}What's {\K34}gonna {\K88}happen\N会发生什么
+Dialogue: 0,0:00:26.91,0:00:27.96,所有 4K,,0,0,0,,{\K22}We {\K43}just {\K39}know\N我们只知道
+Dialogue: 0,0:00:27.76,0:00:28.83,所有 4K,,0,0,0,,{\K23\pos(1920,230)}We {\K43}just {\K41}know\N只知道
+Dialogue: 0,0:00:28.63,0:00:30.15,所有 4K,,0,0,0,,{\K23}It's {\K40}gonna {\K47}feel {\K42}right\N这样的感觉真好
+Dialogue: 0,0:00:30.58,0:00:31.86,所有 4K,,0,0,0,,{\K40}All our {\K45}friends are {\K42}here\N我们所有的朋友都在这儿
+Dialogue: 0,0:00:32.26,0:00:36.80,所有 4K,,0,0,0,,{\K22}And {\K24}it's {\K20}time {\K24}to {\K168}ignite {\K23}the {\K172}lights\N是时候点燃所有的灯啦
+Dialogue: 0,0:00:36.90,0:00:40.42,所有 4K,,0,0,0,,{\K39}Shake{\K10} {\K48}your {\K42.5}tail{\K50}'cause we're {\K43}here to {\K42}have a {\K42}party {\K35}tonight\N摇摇你的尾巴吧 因为我们今晚将在这里彻夜狂欢
+Dialogue: 0,0:00:40.30,0:00:43.06,所有 4K,,0,0,0,,{\K50\pos(1920,230)}Shake {\K43}your {\K44}tail{\K18} {\K45}shake {\K39}your {\K37}tail\N欢快地摇摇你的尾巴吧
+Dialogue: 0,0:00:43.70,0:00:47.34,所有 4K,,0,0,0,,{\K36}Shake{\K22} {\K38}your {\K47}tail{\K45}'cause we're {\K40}here to {\K46}have a {\K40}party {\K50}tonight\N摇摇你的尾巴吧 因为我们今晚将在这里彻夜狂欢
+Dialogue: 0,0:00:47.15,0:00:49.90,所有 4K,,0,0,0,,{\K37\pos(1920,230)}Shake{\K20} {\K37}your {\K47}tail {\K48}shake{\K17} {\K35}your {\K34}tail\N欢快地摇摇你的尾巴吧
+Dialogue: 0,0:00:51.14,0:00:54.14,Twilight Sparkle 4K,,0,0,0,,{\K43}So {\K43}what you {\K30}didn't{\K12} {\K44}get it {\K43}right the {\K40}first {\K45}time\N所以当你第一次没有做好时
+Dialogue: 0,0:00:54.44,0:00:57.52,Pinkie Pie 4K,,0,0,0,,{\K33}Laugh {\K60}it off{\K49} {\K20}no {\K15}one {\K51}said {\K32}it is a {\K47}crime\N那就一笑而过吧 没人说那是一种罪行
+Dialogue: 0,0:00:58.00,0:01:00.98,Rarity 4K,,0,0,0,,{\K19}Do {\K24}your {\K42}thing{\K20} {\K24}you {\K22}know {\K20}you're {\K19}an {\K108}original\N做你自己的事儿 你会知道你就是原创者
+Dialogue: 0,0:01:01.22,0:01:04.38,Apple Jack 4K,,0,0,0,,{\K20}Your {\K80}ideas are {\K45}so {\K45}funny {\K22}that {\K23}they're {\K80}criminal\N你的想法实在太有趣了 竟然想到他们有罪
+Dialogue: 0,0:01:04.41,0:01:06.51,所有 4K,,0,0,0,,{\K174}Ohhh {\K35}ahh
+Dialogue: 0,0:01:06.79,0:01:08.13,所有 4K,,0,0,0,,{\K19}We've {\K17}just {\K24}got {\K23}the {\K50}day\N我们只有一天的时间
+Dialogue: 0,0:01:08.90,0:01:10.44,所有 4K,,0,0,0,,{\K22}To {\K43}get {\K88}ready\N可以准备
+Dialogue: 0,0:01:10.86,0:01:13.30,所有 4K,,0,0,0,,{\K20}And {\K22}there's {\K34}only {\K50}so much {\K24}time {\K22}to {\K70}lose\N可没多少能浪费的时间
+Dialogue: 0,0:01:13.64,0:01:15.03,所有 4K,,0,0,0,,{\K63}Because {\K76}tonight\N因为今晚 我们要在这儿狂欢
+Dialogue: 0,0:01:15.36,0:01:17.60,所有 4K,,0,0,0,,{\K42}Yeah {\K21}we're {\K40}here to {\K121}party\N我们要在这儿狂欢
+Dialogue: 0,0:01:17.60,0:01:20.04,所有 4K,,0,0,0,,{\K28}So {\K27}let's {\K31}think of {\K52}something {\K24}fun {\K21}to {\K60}do\N让我们想想有些什么好玩的吧
+Dialogue: 0,0:01:21.81,0:01:22.88,所有 4K,,0,0,0,,{\K17}We {\K44}don't {\K45}know\N我们不知道会发生什么
+Dialogue: 0,0:01:22.65,0:01:23.71,所有 4K,,0,0,0,,{\K22\pos(1920,230)}We {\K41}don't {\K43}know\N不知道
+Dialogue: 0,0:01:23.50,0:01:25.00,所有 4K,,0,0,0,,{\K22}What's {\K38}gonna {\K89}happen\N会发生什么
+Dialogue: 0,0:01:25.21,0:01:26.25,所有 4K,,0,0,0,,{\K20}We {\K44}just {\K39}know\N我们只知道
+Dialogue: 0,0:01:26.08,0:01:27.10,所有 4K,,0,0,0,,{\pos(1920,230)\K19}We {\K45}just {\K37}know\N只知道
+Dialogue: 0,0:01:26.93,0:01:28.39,所有 4K,,0,0,0,,{\K21}It's {\K42}gonna {\K42}feel {\K41}right\N这样的感觉真好
+Dialogue: 0,0:01:28.86,0:01:30.10,所有 4K,,0,0,0,,{\K37}All our {\K49}friends are {\K38}here\N所有的朋友都在这
+Dialogue: 0,0:01:30.56,0:01:34.97,所有 4K,,0,0,0,,{\K21}And {\K22}it's {\K21}time {\K21}to {\K170}ignite {\K26}the {\K160}lights\N是时候点亮所有的灯啦
+Dialogue: 0,0:01:35.18,0:01:38.64,所有 4K,,0,0,0,,{\K32}Shake{\K16} {\K40}your {\K45.5}tail{\K49}'cause we're {\K41}here to {\K40}have a {\K47}party {\K35}tonight\N摇摇你的尾巴吧 因为我们今晚将在这里彻夜狂欢
+Dialogue: 0,0:01:38.51,0:01:41.36,所有 4K,,0,0,0,,{\K45\pos(1920,230)}Shake{\K16} {\K36}your {\K51}tail{\K15} {\K35}shake{\K13} {\K38}your {\K36}tail\N欢快地摇摇你的尾巴
+Dialogue: 0,0:01:42.04,0:01:45.51,所有 4K,,0,0,0,,{\K31}Shake{\K20} {\K37}your {\K50}tail{\K44}'cause we're {\K42}here to {\K43}have a {\K24}party{\K20} {\K36}tonight\N摇摇你的尾巴吧 因为我们今晚将在这里彻夜狂欢
+Dialogue: 0,0:01:45.44,0:01:48.20,所有 4K,,0,0,0,,{\K38\pos(1920,230)}Shake{\K17} {\K33}your {\K50}tail{\K15} {\K35}shake{\K17} {\K32}your {\K39}tail\N欢快地摇摇你的尾巴吧
+Dialogue: 0,0:01:48.90,0:01:52.37,所有 4K,,0,0,0,,{\K29}Shake{\K20} {\K40}your {\K44}tail{\K48}'cause we're {\K44}here to {\K42}have a {\K40}party {\K40}tonight\N摇摇你的尾巴吧 因为我们今晚将在这里彻夜狂欢
+Dialogue: 0,0:01:52.30,0:01:55.06,所有 4K,,0,0,0,,{\K38\pos(1920,230)}Shake{\K15} {\K35}your {\K50}tai{\K19}l {\K34}shake{\K14} {\K36}your {\K34}tail\N欢快地摇摇你的尾巴吧
+Dialogue: 0,0:01:55.70,0:01:59.25,所有 4K,,0,0,0,,{\K37}Shake{\K20} {\K38}your {\K44}tail{\K48}'cause we're {\K43}here to {\K42}have a {\K43}party {\K39}tonight\N摇摇你的尾巴吧 因为我们今晚将在这里彻夜狂欢
+Dialogue: 0,0:01:59.17,0:02:01.93,所有 4K,,0,0,0,,{\K38\pos(1920,230)}Shake{\K15} {\K35}your {\K52}tail{\K12} {\K33}shake{\K18} {\K36}your {\K37}tail\N欢快地摇摇你的尾巴吧
+Dialogue: 0,0:02:02.61,0:02:06.46,所有 4K,,0,0,0,,{\K33}Shake{\K17} {\K37}your {\K45}tail{\K47}'cause we're {\K32}here to {\K53}have a {\K42}party {\K79}tonight\N摇摇你的尾巴吧 因为我们今晚将在这里彻夜狂欢
