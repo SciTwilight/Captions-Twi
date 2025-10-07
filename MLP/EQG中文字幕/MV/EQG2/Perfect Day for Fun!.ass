@@ -21,7 +21,8 @@ Audio File: ../../../../A素材/4K源文件/Perfect Day for Fun!SDR.mp4
 Video File: ../../../../A素材/4K源文件/Perfect Day for Fun!SDR.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 0.250000
+Scroll Position: 9
 Active Line: 40
 Video Position: 2901
 
@@ -54,43 +55,43 @@ Style: 1,华文隶书,220,&H007557F7,&H00907DD3,&H00FFFFFF,&H00FFFFFF,0,0,0,0,10
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:04.54,0:00:07.97,1,,0,0,0,,{\pos(1221.333,1187.334)\frz17.77\fade(255,0,255,0,250,3030,3429)}乐{\r2\frz17.77}享{\r3\frz17.77}时{\r4\frz17.77}光
-Dialogue: 0,0:00:21.26,0:00:22.87,所有 4K,,0,0,0,,{\K42}Looking {\K34}forward {\K22}to {\K24}some {\K38}fun\N正期待着能享受欢乐时光
-Dialogue: 0,0:00:22.87,0:00:24.40,所有 4K,,0,0,0,,{\K37}Knowing {\K16}all {\K23}our {\K23}friends {\K14}will {\K40}come\N心里清楚所有的朋友都会来到身旁
-Dialogue: 0,0:00:24.40,0:00:25.99,所有 4K,,0,0,0,,{\K21}'Cause {\K19}we're {\K19}here {\K9}to {\K32}spend {\K18}the {\K41}day\N因为今天我们聚在这里
-Dialogue: 0,0:00:25.99,0:00:27.49,所有 4K,,0,0,0,,{\K75}Everybody {\K38}come and {\K37}play\N所有人都来尽情玩吧！
-Dialogue: 0,0:00:27.49,0:00:29.07,所有 4K,,0,0,0,,{\K25}Let's {\K18}all {\K40}pick a {\K39}meeting {\K32}place\N让我们共同选定一处见面的地点
+Dialogue: 0,0:00:21.26,0:00:22.87,所有 4K,,0,0,0,,{\K42}Looking {\K34}forward {\K22}to {\K24}some {\K39}fun\N正期待着能享受欢乐时光
+Dialogue: 0,0:00:22.87,0:00:24.40,所有 4K,,0,0,0,,{\K37}Knowing {\K16}all {\K23}our {\K23}friends {\K14}will {\K41}come\N心里清楚所有的朋友都会来到身旁
+Dialogue: 0,0:00:24.40,0:00:25.99,所有 4K,,0,0,0,,{\K21}'Cause {\K19}we're {\K19}here {\K9}to {\K32}spend {\K18}the {\K42}day\N因为今天我们聚在这里
+Dialogue: 0,0:00:25.99,0:00:27.49,所有 4K,,0,0,0,,{\K75}Everybody {\K38}come and {\K38}play\N所有人都来尽情玩吧！
+Dialogue: 0,0:00:27.49,0:00:29.07,所有 4K,,0,0,0,,{\K25}Let's {\K18}all {\K40}pick a {\K39}meeting {\K33}place\N让我们共同选定一处见面的地点
 Dialogue: 0,0:00:29.10,0:00:30.61,所有 4K,,0,0,0,,{\K19}And {\K20}we're {\K37}gonna {\K18}have {\K20}to {\K34}race\N然后我们就要准备比赛
-Dialogue: 0,0:00:30.66,0:00:32.13,所有 4K,,0,0,0,,{\K77}Everybody {\K40}follow {\K29}me\N大家都跟着我来
-Dialogue: 0,0:00:32.23,0:00:33.75,所有 4K,,0,0,0,,{\K40}This is {\K20}where {\K17}we're {\K38}gonna {\K37}be\N这里就是我们要停留的地方
-Dialogue: 0,0:00:34.16,0:00:36.59,所有 4K,,0,0,0,,{\K35}With {\K45}my {\K75}best {\K87}friends\N和我最要好的朋友们在一起
-Dialogue: 0,0:00:37.27,0:00:39.30,所有 4K,,0,0,0,,{\K40}Though {\K37}we're {\K125}different\N即便我们各有不同
-Dialogue: 0,0:00:39.61,0:00:41.56,所有 4K,,0,0,0,,{\K18}We {\K12}feel {\K25}like {\K14}we {\K45}still {\K42}be {\K38}long\N却依然感觉彼此心意相通
-Dialogue: 0,0:00:41.77,0:00:44.61,所有 4K,,0,0,0,,{\K19}And {\K38}every {\K20}day {\K17}it {\K42}makes {\K35}our {\K65}friendship {\K46}strong\N而且每过一天 咱们的友谊都会变得更牢固呢
-Dialogue: 0,0:00:46.16,0:00:47.66,所有 4K,,0,0,0,,{\K45}Let's go {\K20}find {\K20}some {\K17}games {\K20}to {\K26}win\N一起去找些能赢的游戏来玩
-Dialogue: 0,0:00:47.80,0:00:49.24,所有 4K,,0,0,0,,{\K79}Everybody's {\K37}joining {\K26}in\N每个人都跟着一起参与进来了
-Dialogue: 0,0:00:49.34,0:00:50.91,所有 4K,,0,0,0,,{\K22}'Cause {\K16}we're {\K33}having {\K46}such a {\K38}blast\N因为咱们现在玩得也太开心了吧
-Dialogue: 0,0:00:50.91,0:00:52.45,所有 4K,,0,0,0,,{\K18}Hey {\K13}did {\K25}I {\K22}just {\K32}come in {\K42}last\N嘿 我是不是最后一个到的？
-Dialogue: 0,0:00:52.46,0:00:54.00,所有 4K,,0,0,0,,{\K34}Doesn't {\K47}matter {\K20}win {\K17}or {\K34}lose\N输或赢其实根本不重要
-Dialogue: 0,0:00:54.03,0:00:55.54,所有 4K,,0,0,0,,{\K19}When {\K17}we {\K42}always {\K16}are {\K55}amused\N因为咱们一直都玩得特别尽兴呀
-Dialogue: 0,0:00:55.57,0:00:57.06,所有 4K,,0,0,0,,{\K20}My {\K21}friends {\K37}stand out {\K38}in a {\K33}crowd\N我的朋友们在人群里总是那么显眼
-Dialogue: 0,0:00:57.06,0:00:58.75,所有 4K,,0,0,0,,{\K48}Having {\K19}fun {\K17}and {\K37}laughing {\K46}loud\N玩得尽兴 笑得也特别灿烂
-Dialogue: 0,0:00:59.10,0:01:01.74,所有 4K,,0,0,0,,{\K39}With {\K37}my {\K75}best {\K112}friends\N和我最要好的朋友们在一起
-Dialogue: 0,0:01:02.22,0:01:04.26,所有 4K,,0,0,0,,{\K35}We {\K41}can {\K126}depend\N我们可以相互信赖
-Dialogue: 0,0:01:04.56,0:01:06.49,所有 4K,,0,0,0,,{\K17}They {\K17}will {\K46}always {\K75}follow {\K38}through\N他们永远都会陪我坚持到最后
-Dialogue: 0,0:01:06.86,0:01:11.16,所有 4K,,0,0,0,,{\K38}It's a {\K38}perfect {\K36}day {\K42}for {\K40}fun {\K39}when {\K30}I {\K50}spend {\K37}it {\K38}with {\K42}you\N只要和你一起度过 每一天都是的完美日子
-Dialogue: 0,0:01:23.61,0:01:25.18,所有 4K,,0,0,0,,{\K40}Taking {\K41}photos {\K12}with {\K26}my {\K37}friends\N和我的朋友们一起拍照片
-Dialogue: 0,0:01:25.20,0:01:26.70,所有 4K,,0,0,0,,{\K35}Never {\K20}want {\K22}this {\K20}day {\K17}to {\K33}end\N真希望今天永远都不要结束
-Dialogue: 0,0:01:26.76,0:01:28.26,所有 4K,,0,0,0,,{\K16}But {\K17}the {\K25}time {\K22}is {\K36}going {\K34}fast\N可是时间过得飞快
-Dialogue: 0,0:01:28.26,0:01:29.86,所有 4K,,0,0,0,,{\K25}So {\K37}come on {\K17}and {\K37}make it {\K42}last\N所以咱们快一起让这一刻多停留会儿吧
-Dialogue: 0,0:01:29.86,0:01:31.34,所有 4K,,0,0,0,,{\K15}Get {\K21}the {\K42}band {\K20}up on {\K13}the {\K33}stage\N让乐队站上舞台
-Dialogue: 0,0:01:31.34,0:01:32.89,所有 4K,,0,0,0,,{\K46}Doesn't {\K42}matter {\K21}what {\K17}your {\K29}age\N不管你多大年纪都没关系
-Dialogue: 0,0:01:32.89,0:01:34.43,所有 4K,,0,0,0,,{\K28}Hear {\K20}the {\K35}music {\K25}now's {\K13}your {\K33}chance\N听 音乐响起来了 现在就是你的机会啦
-Dialogue: 0,0:01:34.43,0:01:36.06,所有 4K,,0,0,0,,{\K79}Everybody {\K29}start {\K17}to {\K38}dance\N大家都开始跳起舞来吧
-Dialogue: 0,0:01:36.50,0:01:39.04,所有 4K,,0,0,0,,{\K39}With {\K38}my {\K75}best {\K100}friends\N和我最要好的朋友们在一起
-Dialogue: 0,0:01:39.61,0:01:41.63,所有 4K,,0,0,0,,{\K41}Though {\K38}we're {\K121}different\N即便我们各有不同
-Dialogue: 0,0:01:41.96,0:01:43.91,所有 4K,,0,0,0,,{\K18}We {\K18}feel {\K17}like {\K13}we {\K49}still {\K38}be {\K41}long\N却依然感觉彼此心意相通
-Dialogue: 0,0:01:44.10,0:01:46.96,所有 4K,,0,0,0,,{\K17}And {\K42}every {\K17}day {\K17}it {\K45}makes {\K34}our {\K62}friendship {\K51}strong\N而且每过一天 咱们的友谊都会变得更牢固呢
-Dialogue: 0,0:01:48.97,0:01:51.27,所有 4K,,0,0,0,,{\K35}With {\K42}my {\K75}best {\K75}friends\N和我最要好的朋友们在一起
-Dialogue: 0,0:01:52.07,0:01:54.15,所有 4K,,0,0,0,,{\K38}We {\K42}can {\K125}depend\N我们可以相互信赖
-Dialogue: 0,0:01:54.43,0:01:56.49,所有 4K,,0,0,0,,{\K19}They {\K20}will {\K38}always {\K75}follow {\K50}through\N他们永远都会陪我坚持到最后
-Dialogue: 0,0:01:56.75,0:02:01.00,所有 4K,,0,0,0,,{\K20}There's {\K17}a {\K79}guarantee {\K38}for {\K37}fun {\K37}when {\K30}I {\K55}spend {\K37}it {\K38}with{\K37} you\N只要和你在一起 就保证会有无尽的快乐
+Dialogue: 0,0:00:30.66,0:00:32.13,所有 4K,,0,0,0,,{\K77}Everybody {\K40}follow {\K30}me\N大家都跟着我来
+Dialogue: 0,0:00:32.23,0:00:33.75,所有 4K,,0,0,0,,{\K40}This is {\K20}where {\K17}we're {\K38}gonna {\K38}be\N这里就是我们要停留的地方
+Dialogue: 0,0:00:34.16,0:00:36.59,所有 4K,,0,0,0,,{\K35}With {\K45}my {\K75}best {\K88}friends\N和我最要好的朋友们在一起
+Dialogue: 0,0:00:37.27,0:00:39.30,所有 4K,,0,0,0,,{\K40}Though {\K37}we're {\K126}different\N即便我们各有不同
+Dialogue: 0,0:00:39.61,0:00:41.56,所有 4K,,0,0,0,,{\K18}We {\K12}feel {\K25}like {\K14}we {\K45}still {\K42}be {\K39}long\N却依然感觉彼此心意相通
+Dialogue: 0,0:00:41.77,0:00:44.61,所有 4K,,0,0,0,,{\K19}And {\K38}every {\K20}day {\K17}it {\K42}makes {\K35}our {\K65}friendship {\K47}strong\N而且每过一天 咱们的友谊都会变得更牢固呢
+Dialogue: 0,0:00:46.16,0:00:47.66,所有 4K,,0,0,0,,{\K45}Let's go {\K20}find {\K20}some {\K17}games {\K20}to {\K27}win\N一起去找些能赢的游戏来玩
+Dialogue: 0,0:00:47.80,0:00:49.24,所有 4K,,0,0,0,,{\K79}Everybody's {\K37}joining {\K27}in\N每个人都跟着一起参与进来了
+Dialogue: 0,0:00:49.34,0:00:50.91,所有 4K,,0,0,0,,{\K22}'Cause {\K16}we're {\K33}having {\K46}such a {\K39}blast\N因为咱们现在玩得也太开心了吧
+Dialogue: 0,0:00:50.91,0:00:52.45,所有 4K,,0,0,0,,{\K18}Hey {\K13}did {\K25}I {\K22}just {\K32}come in {\K43}last\N嘿 我是不是最后一个到的？
+Dialogue: 0,0:00:52.46,0:00:54.00,所有 4K,,0,0,0,,{\K34}Doesn't {\K47}matter {\K20}win {\K17}or {\K35}lose\N输或赢其实根本不重要
+Dialogue: 0,0:00:54.03,0:00:55.54,所有 4K,,0,0,0,,{\K19}When {\K17}we {\K42}always {\K16}are {\K56}amused\N因为咱们一直都玩得特别尽兴呀
+Dialogue: 0,0:00:55.57,0:00:57.06,所有 4K,,0,0,0,,{\K20}My {\K21}friends {\K37}stand out {\K38}in a {\K34}crowd\N我的朋友们在人群里总是那么显眼
+Dialogue: 0,0:00:57.06,0:00:58.75,所有 4K,,0,0,0,,{\K48}Having {\K19}fun {\K17}and {\K37}laughing {\K47}loud\N玩得尽兴 笑得也特别灿烂
+Dialogue: 0,0:00:59.10,0:01:01.74,所有 4K,,0,0,0,,{\K39}With {\K37}my {\K75}best {\K113}friends\N和我最要好的朋友们在一起
+Dialogue: 0,0:01:02.22,0:01:04.26,所有 4K,,0,0,0,,{\K35}We {\K41}can {\K127}depend\N我们可以相互信赖
+Dialogue: 0,0:01:04.56,0:01:06.49,所有 4K,,0,0,0,,{\K17}They {\K17}will {\K46}always {\K75}follow {\K39}through\N他们永远都会陪我坚持到最后
+Dialogue: 0,0:01:06.86,0:01:11.16,所有 4K,,0,0,0,,{\K38}It's a {\K38}perfect {\K36}day {\K42}for {\K40}fun {\K39}when {\K30}I {\K50}spend {\K37}it {\K38}with {\K43}you\N只要和你一起度过 每一天都是的完美日子
+Dialogue: 0,0:01:23.61,0:01:25.18,所有 4K,,0,0,0,,{\K40}Taking {\K41}photos {\K12}with {\K26}my {\K38}friends\N和我的朋友们一起拍照片
+Dialogue: 0,0:01:25.20,0:01:26.70,所有 4K,,0,0,0,,{\K35}Never {\K20}want {\K22}this {\K20}day {\K17}to {\K34}end\N真希望今天永远都不要结束
+Dialogue: 0,0:01:26.76,0:01:28.26,所有 4K,,0,0,0,,{\K16}But {\K17}the {\K25}time {\K22}is {\K36}going {\K35}fast\N可是时间过得飞快
+Dialogue: 0,0:01:28.26,0:01:29.86,所有 4K,,0,0,0,,{\K25}So {\K37}come on {\K17}and {\K37}make it {\K43}last\N所以咱们快一起让这一刻多停留会儿吧
+Dialogue: 0,0:01:29.86,0:01:31.34,所有 4K,,0,0,0,,{\K15}Get {\K21}the {\K42}band {\K20}up on {\K13}the {\K34}stage\N让乐队站上舞台
+Dialogue: 0,0:01:31.34,0:01:32.89,所有 4K,,0,0,0,,{\K46}Doesn't {\K42}matter {\K21}what {\K17}your {\K30}age\N不管你多大年纪都没关系
+Dialogue: 0,0:01:32.89,0:01:34.43,所有 4K,,0,0,0,,{\K28}Hear {\K20}the {\K35}music {\K25}now's {\K13}your {\K34}chance\N听 音乐响起来了 现在就是你的机会啦
+Dialogue: 0,0:01:34.43,0:01:36.06,所有 4K,,0,0,0,,{\K79}Everybody {\K29}start {\K17}to {\K39}dance\N大家都开始跳起舞来吧
+Dialogue: 0,0:01:36.50,0:01:39.04,所有 4K,,0,0,0,,{\K39}With {\K38}my {\K75}best {\K101}friends\N和我最要好的朋友们在一起
+Dialogue: 0,0:01:39.61,0:01:41.63,所有 4K,,0,0,0,,{\K41}Though {\K38}we're {\K122}different\N即便我们各有不同
+Dialogue: 0,0:01:41.96,0:01:43.91,所有 4K,,0,0,0,,{\K18}We {\K18}feel {\K17}like {\K13}we {\K49}still {\K38}be {\K42}long\N却依然感觉彼此心意相通
+Dialogue: 0,0:01:44.10,0:01:46.96,所有 4K,,0,0,0,,{\K17}And {\K42}every {\K17}day {\K17}it {\K45}makes {\K34}our {\K62}friendship {\K52}strong\N而且每过一天 咱们的友谊都会变得更牢固呢
+Dialogue: 0,0:01:48.97,0:01:51.27,所有 4K,,0,0,0,,{\K35}With {\K42}my {\K75}best {\K76}friends\N和我最要好的朋友们在一起
+Dialogue: 0,0:01:52.07,0:01:54.15,所有 4K,,0,0,0,,{\K38}We {\K42}can {\K126}depend\N我们可以相互信赖
+Dialogue: 0,0:01:54.43,0:01:56.49,所有 4K,,0,0,0,,{\K19}They {\K20}will {\K38}always {\K75}follow {\K51}through\N他们永远都会陪我坚持到最后
+Dialogue: 0,0:01:56.75,0:02:01.00,所有 4K,,0,0,0,,{\K20}There's {\K17}a {\K79}guarantee {\K38}for {\K37}fun {\K37}when {\K30}I {\K55}spend {\K37}it {\K38}with {\K38}you\N只要和你在一起 就保证会有无尽的快乐
